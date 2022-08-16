@@ -1,0 +1,32 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: salmon;
+}
+
+header ul{
+    display:flex;
+    align-items: center;
+}
+
+header ul li {
+    margin: 100px;
+    list-style:none;
+    font-size: 18px;
+}
+
+img{
+    width:400px;
+    height:400px; 
+    margin:70px;
+    display: flex;
+    align-items: center;
+}
